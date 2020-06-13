@@ -11,12 +11,13 @@
     <modules>
         <module>SpringIoc</module>
         <module>HelloSpring</module>
-        <module>SpringIOC</module>
+        <module>ExampleIoC</module>
         <module>SpringIoC02</module>
         <module>SpringDI</module>
         <module>Autowire</module>
         <module>Annotation</module>
         <module>AppConfig</module>
+        <module>proxy</module>
     </modules>
 
     <dependencies>
