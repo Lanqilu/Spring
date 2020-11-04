@@ -1,8 +1,9 @@
 package top.whl.dao;
 
 /**
- * @Date: 2020年06月09日  18:34
- * @Description:
+ * @author lanqilu
+ * @date 2020年06月09日  18:34
+ * @description
  **/
 public class UserDaoImpl implements UserDao{
 

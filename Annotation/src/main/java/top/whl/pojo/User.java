@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 @Scope("singleton")
 public class User {
 
-//    @Value("WHL")
+    //    @Value("WHL")
     public String name;
 
     @Value("WHL1")

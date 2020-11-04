@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Spring</artifactId>
+    <artifactId>SpringDemo</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -17,7 +17,11 @@
         <module>Autowire</module>
         <module>Annotation</module>
         <module>AppConfig</module>
-        <module>proxy</module>
+        <module>Proxy</module>
+        <module>DesignPhilosophy</module>
+        <module>AOP-01</module>
+        <module>AOP-02</module>
+        <module>AOP-03</module>
     </modules>
 
     <dependencies>
@@ -32,5 +36,12 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.9.6</version>
+        </dependency>
+
     </dependencies>
 </project>

@@ -1,8 +1,9 @@
 package top.whl.pojo;
 
 /**
- * @Date: 2020年06月09日  20:17
- * @Description:
+ * @author lanqilu
+ * @date 2020年06月09日  20:17
+ * @description
  **/
 public class User {
     private String name;
